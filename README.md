@@ -1,6 +1,6 @@
 # Partial-Noncompetes
 
-This repository contains the data and code to generate estimates in the Agglomerations post [The Babysitter Clause and the Problem of Partial Noncompete Bans](https://agglomerations.substack.com/p/all-quiet-on-the-ai-front). Accurate as of the time of publication, May 22nd, 2026. Contact thomas@eig.org with any questions.
+This repository contains the data and code to generate estimates in the Agglomerations post [The Babysitter Clause and the Problem of Partial Noncompete Bans](https://agglomerations.eig.org/p/the-babysitter-clause-and-the-problem). Accurate as of the time of publication, May 22nd, 2026. Contact thomas@eig.org or benjamin@eig.org with any questions.
 
 All data required to replicate the analysis is included in this repository or pulled from IPUMS in the code.
 
